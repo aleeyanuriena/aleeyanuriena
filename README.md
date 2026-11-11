@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aleeya! 👋
 
-<!--
-**aleeyanuriena/aleeyanuriena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science student at Universiti Teknologi MARA (UiTM) with an interest in UI/UX Design, Web Development, and Software Engineering.
 
-Here are some ideas to get you started:
+## Skills & Interests
+- UI/UX Design
+- Web Development
+- GitHub and Project Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+### UI/UX Enhancement of UiTM uFuture
+An academic project proposing user experience improvements for assignment deadline tracking and attendance management in UiTM uFuture.
+
+## Contact
+Feel free to connect with me through my GitHub profile.
