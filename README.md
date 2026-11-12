@@ -66,7 +66,7 @@ This project proposes improvements to the user experience of UiTM uFuture, focus
 
 **Project Status:** UX Proposal and Documentation
 
-🔗 [View Project Repository](https://github.com/aleeyanuriena/UI-UX-Enhancement-of-UiTM-uFuture)
+🔗 [View Project Repository]([https://github.com/aleeyanuriena/UI-UX-Enhancement-of-UiTM-uFutur](https://github.com/aleeyanuriena/CSC649_ALEEYA-NURIENA-BINTI-MOHD-FAUZI_2025229086)e)
 
 ---
 
